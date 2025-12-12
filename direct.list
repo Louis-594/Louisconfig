@@ -3,6 +3,7 @@
 # 域名后缀匹配
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,weilanzy.com
 SRC-IP-CIDR,192.168.0.102/32
