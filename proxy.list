@@ -7,6 +7,10 @@ DOMAIN-SUFFIX,tekqart.com
 DOMAIN-KEYWORD,1e100
 
 # 国外DNS
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
